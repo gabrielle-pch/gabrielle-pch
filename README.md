@@ -34,6 +34,13 @@
   </a>
 </p>
 
+<h3 align="left">Projets :</h3>
+<ul align="left">
+  <li>💻 <strong>Rester a 42</strong>: parce que c'est cool</li>
+  <li>🌐 <strong>Transcendence</strong>: dans le goinfre yum yum</li>
+  <li>🎮 <strong>Passer gold sur LoL</strong>: ouai et alors ?</li>
+</ul>
+
 [youtube]: https://www.youtube.com/@Shinystaar_
 [instagram]: https://instagram.com/gabrielle.pch
 [discord]: https://discord.com/invite/staar
