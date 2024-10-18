@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/StaaRTTV/StaaRTTV/blob/main/16-9eeeeee.png?raw=true)
 
-## Streameuse (à la retraite) et CM un peu guez
+## Jsuis Streameuse (à la retraite) et CM un peu guez
 
 ### Envoyez pas de messages je reponds pas
 
