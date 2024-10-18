@@ -4,7 +4,7 @@
 
 ## Envoyez pas de messages je reponds pas
 
-[<img align="left" alt="StaaR | Discord" width="48px" src="https://skillicons.dev/icons?i=discord" />][[https://discord.com/invite/staar]
+[<img align="left" alt="StaaR | Discord" width="48px" src="https://skillicons.dev/icons?i=discord" />][[discord]
 
 <br /><br />
 
@@ -23,3 +23,7 @@
     <img src="https://skillicons.dev/icons?i=figma,ae,blender,ps,arduino" />
   </a>
 </p>
+
+[youtube]: https://www.youtube.com/@Shinystaar_
+[instagram]: https://instagram.com/gabrielle.pch
+[discord]: https://discord.com/invite/staar
