@@ -4,17 +4,17 @@
 
 ### Envoyez pas de messages je reponds pas
 
-<div style="text-align: center;">
+<p align="center">
   <a href="https://discord.com" target="_blank">
     <img alt="StaaR | Discord" width="48px" src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="https://instagram.com" target="_blank">
+  <a href="https://instagram.com" target="_blank" style="margin: 0 10px;">
     <img alt="StaaR | Instagram" width="48px" src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://youtube.com" target="_blank">
     <img alt="StaaR | YouTube" width="48px" src="https://skillicons.dev/icons?i=youtube" />
   </a>
-</div>
+</p>
 
 <br /><br />
 ### Desfois à 42 j'utilise
