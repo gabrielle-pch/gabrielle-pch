@@ -12,13 +12,13 @@
 ### Envoyez pas de messages je reponds pas
 
 <p align="center">
-  <a href="https://discord.gg/staar"
+  <a href="https://discord.gg/staar" target="_blank">
     <img alt="StaaR | Discord" width="48px" src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="https://instagram.com/gabrielle.pch"
+  <a href="https://instagram.com/gabrielle.pch" target="_blank" style="margin: 0 10px;">
     <img alt="StaaR | Instagram" width="48px" src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/gabrielle-pochon-2bb0b0255/"
+  <a href="https://www.linkedin.com/in/gabrielle-pochon-2bb0b0255/" target="_blank">
     <img alt="StaaR | Linkedin" width="48px" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
