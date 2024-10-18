@@ -8,6 +8,7 @@
 <p align="left"> 
   Ouai, #FanDePasqualeRossi, offrez moi ChatGPT premium c'est necessaire pour ma scolarité
 </p>
+
 ### Envoyez pas de messages je reponds pas
 
 <p align="center">
