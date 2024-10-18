@@ -9,6 +9,12 @@
   Ouai, #FanDePasqualeRossi, offrez moi ChatGPT premium c'est necessaire pour ma scolarité
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=staarttv&label=Profile%20views&color=0e75b6&style=flat" alt="axeltheaxelotl" />
+  <img src="https://img.shields.io/github/followers/staarttv?label=Suiveurs&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/staarttv?style=social" alt="Stars" />
+</p>
+
 ### Envoyez pas de messages je reponds pas
 
 <p align="center">
