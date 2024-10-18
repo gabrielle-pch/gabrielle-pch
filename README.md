@@ -12,7 +12,7 @@
 ### Envoyez pas de messages je reponds pas
 
 <p align="center">
-  <a href="https://discord.gg/staar" target="blank">
+  <a href="https://discord.gg/staar" target=>
     <img alt="StaaR | Discord" width="48px" src="https://skillicons.dev/icons?i=discord" />
   </a>
   <a href="https://instagram.com/gabrielle.pch" target="_blank" style="margin: 0 10px;">
