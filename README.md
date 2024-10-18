@@ -4,7 +4,7 @@
 
 ## Envoyez pas de messages je reponds pas
 
-[<img align="left" alt="StaaR | Discord" width="48px" src="https://skillicons.dev/icons?i=discord" />][discord]
+[<img align="left" alt="StaaR | Discord" width="48px" src="https://skillicons.dev/icons?i=discord" />][[https://discord.com/invite/staar]
 
 <br /><br />
 
