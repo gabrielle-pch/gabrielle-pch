@@ -12,10 +12,11 @@
 
 ### Desfois à 42 j'utilise
 
-
-<img align="middle" alt="StaaR | Youtube" width="48px" src="https://skillicons.dev/icons?i=git,vscode,linux,c,vim" />
-
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,linux,c,vim" />
+  </a>
+</p>
 
 ### Et chez moi je fais du
 
