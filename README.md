@@ -15,7 +15,7 @@
     <img alt="StaaR | YouTube" width="48px" src="https://skillicons.dev/icons?i=youtube" />
   </a>
 </p>
-<br /><br />
+
 ### Desfois à 42 j'utilise
 
 <p align="center">
