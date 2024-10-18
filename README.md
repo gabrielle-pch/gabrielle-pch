@@ -12,7 +12,7 @@
     <img alt="StaaR | Instagram" width="48px" src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://www.linkedin.com/in/gabrielle-pochon-2bb0b0255/" target="_blank">
-    <img alt="StaaR | Linkedin" width="48px" src="[https://skillicons.dev/icons?i=linkedin" />
+    <img alt="StaaR | Linkedin" width="48px" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
