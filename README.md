@@ -7,6 +7,7 @@
     <img src="https://skillicons.dev/icons?i=git,vscode,linux,c,vim" />
   </a>
 </p>
+
 ## Et chez moi je fais du
 
 <p align="center">
