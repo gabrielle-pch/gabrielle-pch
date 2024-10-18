@@ -18,7 +18,7 @@
   </a>
 </p>
 
-### Desfois à 42 j'utilise
+### Des fois à 42 j'utilise
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -36,7 +36,7 @@
 
 <h3 align="left">Projets :</h3>
 <ul align="left">
-  <li>💻 <strong>Reprendre la salle</strong>: parce que c'est cool</li>
+  <li>😜 <strong>Reprendre la salle</strong>: parce que c'est cool</li>
   <li>🌐 <strong>Finir le common core</strong>: dans le goinfre yum yum</li>
   <li>🎮 <strong>Passer gold sur LoL</strong>: ouai et alors ?</li>
 </ul>
