@@ -7,3 +7,10 @@
     <img src="https://skillicons.dev/icons?i=git,vscode,linux,c,vim" />
   </a>
 </p>
+## Et chez moi je fais du
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ae,blender,ps,arduino" />
+  </a>
+</p>
