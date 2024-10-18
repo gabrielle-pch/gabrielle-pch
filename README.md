@@ -1,9 +1,9 @@
 # J'ai passé la Piscine par pure chance mais au moins je sais git push pas comme Karim :3
 
-## Badges
+## Desfois à 42 j'utilise
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,linux,c,vim" />
   </a>
 </p>
