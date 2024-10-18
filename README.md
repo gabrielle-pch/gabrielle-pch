@@ -4,9 +4,17 @@
 
 ### Envoyez pas de messages je reponds pas
 
-[<img align="middle" alt="StaaR | Discord" width="48px" src="https://skillicons.dev/icons?i=discord" />][discord]
-[<img align="middle" alt="StaaR | Instagram" width="48px" src="https://skillicons.dev/icons?i=instagram" />][instagram]
-[<img align="middle" alt="StaaR | Youtube" width="48px" src="https://skillicons.dev/icons?i=youtube" />][youtube]
+<div style="text-align: center;">
+  <a href="https://discord.com" target="_blank">
+    <img alt="StaaR | Discord" width="48px" src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://instagram.com" target="_blank">
+    <img alt="StaaR | Instagram" width="48px" src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://youtube.com" target="_blank">
+    <img alt="StaaR | YouTube" width="48px" src="https://skillicons.dev/icons?i=youtube" />
+  </a>
+</div>
 <br /><br />
 ### Desfois à 42 j'utilise
 
