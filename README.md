@@ -7,9 +7,7 @@
 [<img align="middle" alt="StaaR | Discord" width="48px" src="https://skillicons.dev/icons?i=discord" />][discord]
 [<img align="middle" alt="StaaR | Instagram" width="48px" src="https://skillicons.dev/icons?i=instagram" />][instagram]
 [<img align="middle" alt="StaaR | Youtube" width="48px" src="https://skillicons.dev/icons?i=youtube" />][youtube]
-
 <br /><br />
-
 ### Desfois à 42 j'utilise
 
 <p align="center">
