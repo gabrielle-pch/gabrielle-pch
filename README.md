@@ -6,6 +6,8 @@
 
 [<img align="left" alt="StaaR | Discord" width="48px" src="https://skillicons.dev/icons?i=discord" />][discord]
 
+<br /><br />
+
 ## Desfois à 42 j'utilise
 
 <p align="center">
