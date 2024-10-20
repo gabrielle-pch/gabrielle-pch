@@ -4,10 +4,10 @@
 
 <h3 align="left">About me :</h3>
 <p align="left"> 
-  Chill vibes on here, I am a content creator passionate with tech since my young ages
+  Chill vibes on here 🫶, I am a content creator passionate with tech and constantly looking forward to learn new things 👀
 </p>
 
-### Socials : 
+### My Socials : 
 
 <p align="center">
   <a href="https://discord.gg/staar" target="_blank" style="text-decoration: none;">
@@ -21,7 +21,7 @@
   </a>
 </p>
 
-### Actual skills :
+### Current skills :
 
 <p align="center">
   <a href="https://skillicons.dev">
