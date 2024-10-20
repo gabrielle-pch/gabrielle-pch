@@ -41,4 +41,5 @@
 [instagram]: https://instagram.com/gabrielle.pch
 [discord]: https://discord.com/invite/staar
 
+### And there is a cute Wumpus :3 
 <img alt=wumpus width="200px" src="https://mcmodels.net/_ipx/f_webp/https://api.mcmodels.net/storage/product-images/12113/01J2DAPFYZT5P7KZDWZQ4YEFP8.png" />
