@@ -21,19 +21,11 @@
   </a>
 </p>
 
-### At 42 Lux I use theses tools :
+### Actual skills :
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,linux,c,vim" />
-  </a>
-</p>
-
-### And i do theses for fun 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ae,blender,ps,arduino" />
+    <img src="https://skillicons.dev/icons?i=git,vscode,linux,c,vim;figma,ae,blender,ps" />
   </a>
 </p>
 
