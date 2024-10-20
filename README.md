@@ -4,7 +4,7 @@
 
 <h3 align="left">About me :</h3>
 <p align="left"> 
-  Chill vibes on here 🫶, I am a content creator passionate with tech and constantly looking forward to learn new things 👀
+  Chill and positive vibes on here 🫶, I am a content creator passionate with tech and constantly looking forward to learn new things 👀
 </p>
 
 ### My Socials : 
@@ -31,10 +31,10 @@
 
 <h3 align="left">Projects :</h3>
 <ul align="left">
-  <li>😜 <strong>Reprendre la salle</strong> : parce que c'est cool</li>
-  <li>🌐 <strong>Finir le common core</strong> : dans le goinfre yum yum</li>
-  <li>🎮 <strong>Passer gold sur LoL</strong> : ouai et alors ?</li>
-  <li>👎 <strong>Avoir plus de projets</strong> : parce que bon...</li>
+  <li>😜 <strong>Libft</strong> : a 42 project</li>
+  <li>🌐 <strong>Zenith 42</strong> : 👀</li>
+  <li>💪🏻 <strong>Go to the Gym</strong> : its needed...</li>
+  <li>🍵 <strong>Drink more matcha</strong> : cuz I love it sm</li>
 </ul>
 
 [youtube]: https://www.youtube.com/@Shinystaar_
