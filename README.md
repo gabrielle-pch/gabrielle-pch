@@ -31,7 +31,7 @@
 
 <h3 align="left">Projects :</h3>
 <ul align="left">
-  <li>😜 <strong>Libft</strong> : a 42 project</li>
+  <li>🪐 <strong>Libft</strong> : my first 42 common core projet</li>
   <li>🌐 <strong>Zenith 42</strong> : 👀</li>
   <li>💪🏻 <strong>Go to the Gym</strong> : its needed...</li>
   <li>🍵 <strong>Drink more matcha</strong> : cuz I love it sm</li>
