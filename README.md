@@ -1,15 +1,13 @@
-# ✨ J'ai passé la Piscine par pure chance mais au moins je sais git push pas comme Karim :3 ✨
+# UI/UX Designer, Future Dev
 
 ![Banner](https://github.com/StaaRTTV/StaaRTTV/blob/main/16-9eeeeee.png?raw=true)
 
-## Jsuis Streameuse (à la retraite) et CM un peu guez
-
-<h3 align="left">À propos de moi :</h3>
+<h3 align="left">About me :</h3>
 <p align="left"> 
-  Ouai, #FanDePasqualeRossi, offrez moi ChatGPT premium c'est necessaire pour ma scolarité
+  Chill vibes on here, I am a content creator passionate with tech since my young ages
 </p>
 
-### Envoyez pas de messages je reponds pas
+### Socials : 
 
 <p align="center">
   <a href="https://discord.gg/staar" target="_blank" style="text-decoration: none;">
@@ -23,7 +21,7 @@
   </a>
 </p>
 
-### Des fois à 42 j'utilise
+### At 42 Lux I use theses tools :
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -31,7 +29,7 @@
   </a>
 </p>
 
-### Et chez moi je fais du
+### And i do theses for fun 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -39,7 +37,7 @@
   </a>
 </p>
 
-<h3 align="left">Projets :</h3>
+<h3 align="left">Projects :</h3>
 <ul align="left">
   <li>😜 <strong>Reprendre la salle</strong> : parce que c'est cool</li>
   <li>🌐 <strong>Finir le common core</strong> : dans le goinfre yum yum</li>
