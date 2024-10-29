@@ -45,4 +45,4 @@
 <img alt=wumpus width="200px" src="https://mcmodels.net/_ipx/f_webp/https://api.mcmodels.net/storage/product-images/12113/01J2DAPFYZT5P7KZDWZQ4YEFP8.png" />
 
 ### Pasquale followed on 28/10/24
-<img alt=bebouchan width="200px" src="https://ibb.co/FnwBvGq" />
+<a href="https://ibb.co/FnwBvGq"><img src="https://i.ibb.co/wYWKHDr/Capture-d-e-cran-2024-10-29-a-10-47-25.png" alt="Capture-d-e-cran-2024-10-29-a-10-47-25" border="0"></a>
