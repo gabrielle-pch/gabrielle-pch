@@ -31,7 +31,7 @@
 
 <h3 align="left">Projects :</h3>
 <ul align="left">
-  <li>🪐 <strong>PrintF</strong> : oui</li>
+  <li>🪐 <strong>GetNextLine</strong> : je get la next line</li>
   <li>🌐 <strong>Bonus Libft</strong> : g pas fait les bonus</li>
   <li>💪🏻 <strong>Go to the Gym</strong> : its needed...</li>
   <li>🍵 <strong>Drink more matcha</strong> : cuz I love it sm</li>
