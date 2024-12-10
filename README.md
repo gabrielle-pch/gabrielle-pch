@@ -31,10 +31,8 @@
 
 <h3 align="left">Projects :</h3>
 <ul align="left">
-  <li>🪐 <strong>MiniTalk</strong> : yay </li>
+  <li>🪐 <strong>So_long</strong> : ouai </li>
   <li>🌐 <strong>BreakTheCode</strong> : Discord community about code I just launched</li>
-  <li>💪🏻 <strong>Go to the Gym</strong> : its needed...</li>
-  <li>🍵 <strong>Drink more matcha</strong> : cuz I love it sm</li>
 </ul>
 
 [youtube]: https://www.youtube.com/@Shinystaar_
