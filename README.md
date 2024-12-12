@@ -1,4 +1,4 @@
-# "Gpochon, ou l'art du foutage de gueule" Chat-GPT
+# "Gpochon, ou l'art du foutage de gueule" - Chat-GPT 2024
 
 ![Banner](https://github.com/StaaRTTV/StaaRTTV/blob/main/16-9eeeeee.png?raw=true)
 
