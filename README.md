@@ -1,4 +1,4 @@
-# UI/UX Designer, Future Dev
+# "Gpochon, ou l'art du foutage de gueule" Chat-GPT
 
 ![Banner](https://github.com/StaaRTTV/StaaRTTV/blob/main/16-9eeeeee.png?raw=true)
 
