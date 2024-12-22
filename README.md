@@ -32,7 +32,7 @@ I’m a Community Manager in the crypto space, tech enthusiast, designer, and a 
 
 <h3 align="left">Projects :</h3>
 <ul align="left">
-  <li>🪐 <strong>So_long</strong> : ouai </li>
+  <li>🪐 <strong>So_long</strong> : Working on a 2D game at the moment </li>
   <li>🌐 <strong>BreakTheCode</strong> : Discord community about code I just launched</li>
 </ul>
 
