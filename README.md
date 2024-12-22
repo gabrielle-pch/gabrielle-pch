@@ -1,6 +1,6 @@
 # "Gpochon, ou l'art du foutage de gueule" - Chat-GPT 2024
 
-![Banner](https://github.com/StaaRTTV/StaaRTTV/blob/main/16-9eeeeee.png?raw=true)
+![Banner](https://github.com/gabrielle-pch/gabrielle-pch/blob/main/0293592C-EEFF-4807-BB5E-F64408822750.gif)
 
 <h3 align="left">About me :</h3>
 <p align="left"> 
