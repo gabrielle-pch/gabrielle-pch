@@ -4,7 +4,8 @@
 
 <h3 align="left">About me :</h3>
 <p align="left"> 
-  Chill and positive vibes on here 🫶, I am a content creator passionate with tech and constantly looking forward to learn new things 👀
+Hi there!
+I’m a Community Manager in the crypto space, tech enthusiast, designer, and a student at 42 Luxembourg. Passionate about innovation, I blend creativity and technology to build impactful projects. 🚀
 </p>
 
 ### My Socials : 
