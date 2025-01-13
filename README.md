@@ -32,7 +32,7 @@ I’m a Community Manager in the crypto space, tech enthusiast, designer, and a 
 
 <h3 align="left">Projects :</h3>
 <ul align="left">
-  <li>🪐 <strong>ush Swap</strong> : Sorting algorithm in C</li>
+  <li>🪐 <strong>Push Swap</strong> : Sorting algorithm in C</li>
   <li>🌐 <strong>BreakTheCode</strong> : Discord community about code I just launched</li>
   <li>💭 <strong>42 Lux LSA</strong> : trying to become an active member !</li>
 </ul>
