@@ -1,4 +1,4 @@
-# Le code est aussi bancal que ma santé mentale
+# StaaR
 
 ![Banner](https://github.com/gabrielle-pch/gabrielle-pch/blob/main/0293592C-EEFF-4807-BB5E-F64408822750.gif)
 
