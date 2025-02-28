@@ -1,4 +1,4 @@
-# StaaR
+# Also known as StaaR, Crypto CM && Future Dev
 
 ![Banner](https://github.com/gabrielle-pch/gabrielle-pch/blob/main/0293592C-EEFF-4807-BB5E-F64408822750.gif)
 
