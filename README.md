@@ -1,11 +1,11 @@
-# Also known as StaaR, Crypto CM && Future Dev
+# Also known as StaaR, Community Builder && Future Dev
 
 ![Banner](https://github.com/gabrielle-pch/gabrielle-pch/blob/main/0293592C-EEFF-4807-BB5E-F64408822750.gif)
 
 <h3 align="left">About me :</h3>
 <p align="left"> 
 Hi there!
-I’m a Community Manager in the crypto space, tech enthusiast, designer, and a student at 42 Luxembourg. Passionate about innovation, I blend creativity and technology to build impactful projects. 🚀
+I’m a Community Manager and Builder mostly in the crypto space, tech enthusiast, designer, and a student at 42 Luxembourg. Passionate about innovation, I blend creativity and technology to build impactful projects. 🚀
 </p>
 
 ### My Socials : 
@@ -32,9 +32,9 @@ I’m a Community Manager in the crypto space, tech enthusiast, designer, and a 
 
 <h3 align="left">Projects :</h3>
 <ul align="left">
-  <li>🪐 <strong>Push Swap</strong> : Sorting algorithm in C</li>
-  <li>🌐 <strong>BreakTheCode</strong> : Discord community about code I just launched</li>
-  <li>💭 <strong>42 Lux LSA</strong> : trying to become an active member !</li>
+  <li>🪐 <strong>Cub3D</strong> : 3D Game in C</li>
+  <li>🌐 <strong>BreakTheCode</strong> : One of my Discord community </li>
+  <li>💭 <strong>42 Lux LSA</strong> : Managing Communication and Events</li>
 </ul>
 
 [youtube]: https://www.youtube.com/@Shinystaar_
