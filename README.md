@@ -5,7 +5,7 @@
 <h3 align="left">About me :</h3>
 <p align="left"> 
 Hi there!
-I’m a Community Manager and Builder mostly in the crypto space, tech enthusiast, designer, and a student at 42 Luxembourg. Passionate about innovation, I blend creativity and technology to build impactful projects. 🚀
+I’m a Community Manager/Builder mostly in the crypto space, tech enthusiast, designer, and a student at 42 Luxembourg. Passionate about innovation, I blend creativity and technology to build impactful projects. 🚀
 </p>
 
 ### My Socials : 
