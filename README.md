@@ -1,43 +1,71 @@
-# Also known as StaaR, Community Builder && Future Dev
-
-![Banner](https://github.com/gabrielle-pch/gabrielle-pch/blob/main/0293592C-EEFF-4807-BB5E-F64408822750.gif)
-
-<h3 align="left">About me :</h3>
-<p align="left"> 
-Hi there!
-I’m a Community Manager/Builder mostly in the crypto space, tech enthusiast, designer, and a student at 42 Luxembourg. Passionate about innovation, I blend creativity and technology to build impactful projects. 🚀
-</p>
-
-### My Socials : 
+<h1 align="center">👾 StaaR — Community Builder & Future Dev</h1>
 
 <p align="center">
-  <a href="https://discord.gg/staar" target="_blank" style="text-decoration: none;">
-    <img alt="StaaR | Discord" width="48px" src="https://skillicons.dev/icons?i=discord" />
-  </a>
-  <a href="https://instagram.com/gabrielle.pch" target="_blank" style="margin: 0 10px; text-decoration: none;">
-    <img alt="StaaR | Instagram" width="48px" src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabrielle-pochon-2bb0b0255/" target="_blank" style="text-decoration: none;">
-    <img alt="StaaR | Linkedin" width="48px" src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+  <img src="https://github.com/gabrielle-pch/gabrielle-pch/blob/main/0293592C-EEFF-4807-BB5E-F64408822750.gif" alt="Banner" />
 </p>
 
-### Current skills :
+<pre><code>
+git clone gabrielle-pch
+cd community-builder
+./launch.sh --creative --techy --chaotic-good
+</code></pre>
+
+<h2>🧠 About me</h2>
+
+<p>
+Hey, I’m <strong>Gabrielle</strong>. <br>
+19. Based at <strong>42 Luxembourg</strong>.<br>
+I build communities, design fun stuff, code in C (yes, C), and make tech content so semicolons feel less scary.
+</p>
+
+<p>
+I’ve managed servers, launched dev spaces from scratch (<code>BreakTheCode</code>), and worked with brands like <strong>Louis Vuitton</strong> & <strong>Pixpay</strong> via Netcord.<br>
+Currently mixing design, dev, and Discord to make cool things with cool people.
+</p>
+
+<h2>⚙️ Tools I Like</h2>
+
+<pre><code>
+VS Code • Git • Linux • C • Vim • Figma • Blender • After Effects • Photoshop
+</code></pre>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,linux,c,vim,figma,ae,blender,ps" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,vscode,linux,c,vim,figma,ae,blender,ps" alt="Tools" />
 </p>
 
-<h3 align="left">Projects :</h3>
-<ul align="left">
-  <li>🪐 <strong>Cub3D</strong> : 3D Game in C</li>
-  <li>🌐 <strong>BreakTheCode</strong> : One of my Discord community </li>
-  <li>💭 <strong>42 Lux LSA</strong> : Managing Communication and Events</li>
+<h2>🔧 Projects</h2>
+
+<ul>
+  <li><code>Cub3D</code> → a 3D raycasting game in C</li>
+  <li><code>BreakTheCode</code> → dev community from scratch</li>
+  <li><code>42 Lux LSA</code> → events, communication, and helping people not lose their minds</li>
 </ul>
 
-[youtube]: https://www.youtube.com/@Shinystaar_
-[instagram]: https://instagram.com/gabrielle.pch
-[discord]: https://discord.com/invite/staar
+<h2>📡 Socials</h2>
 
+<p align="center">
+  <a href="https://discord.gg/staar" target="_blank">
+    <img alt="Discord" width="48px" src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://instagram.com/gabrielle.pch" target="_blank">
+    <img alt="Instagram" width="48px" src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabrielle-pochon-2bb0b0255/" target="_blank">
+    <img alt="LinkedIn" width="48px" src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+<h2>💬 TL;DR</h2>
+
+<ul>
+  <li>I build communities that feel human</li>
+  <li>I code (mostly in C right now)</li>
+  <li>I design stuff that doesn’t suck</li>
+  <li>I make tech content for 16k+ people</li>
+  <li>I like projects that mix <strong>dev, design, and vibes</strong></li>
+</ul>
+
+<pre><code>
+# let’s build something cool
+git commit -m "Ready when you are 🚀"
+</code></pre>
