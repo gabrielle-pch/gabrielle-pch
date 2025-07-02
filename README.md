@@ -1,7 +1,7 @@
 <h1 align="center">👾 StaaR — Community Builder & Future Dev</h1>
 
 <p align="center">
-  <img src="https://github.com/gabrielle-pch/gabrielle-pch/blob/main/0293592C-EEFF-4807-BB5E-F64408822750.gif" alt="Banner" />
+  <img src="https://github.com/gabrielle-pch/ba5fd613871c1f7a5aebd8890ea70869.jpg" alt="Banner" />
 </p>
 
 <pre><code>
